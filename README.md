@@ -1,7 +1,13 @@
 # shortenUrlInterview
- git clone https://github.com/achrefmahfoudh106/shortenUrlInterview.git
-cd url-shortener-inyerview
-git checkout master
-Install mySql client
-go to application.propreties and change it to tour database propreties
-build project and run it 
+1- git clone https://github.com/achrefmahfoudh106/shortenUrlInterview.git
+
+2-cd url-shortener-inyerview
+
+3-git checkout master
+
+4-Install mySql client
+
+5-go to application.propreties and change it to tour database propreties
+
+6-build project and run it 
+
