@@ -1,7 +1,7 @@
 # shortenUrlInterview
 1- git clone https://github.com/achrefmahfoudh106/shortenUrlInterview.git
 
-2-cd url-shortener-inyerview
+2-cd url-shortener-interview
 
 3-git checkout master
 
