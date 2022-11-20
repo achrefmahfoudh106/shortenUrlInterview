@@ -5,7 +5,7 @@
 
 3-git checkout master
 
-4-Install mySql client
+4-make sure you have  mySql client installed on your machine
 
 5-go to application.propreties and change it to tour database propreties
 
