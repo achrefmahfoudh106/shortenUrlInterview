@@ -3,7 +3,7 @@
 
 2-cd url-shortener-interview
 
-3-git checkout master
+3-git checkout  TEMP_BRANCH
 
 4-make sure you have  mySql client installed on your machine
 
